@@ -20,6 +20,6 @@ The following questions were addressed during the analysis.
 
 4. Using a map visual, what U.S. State tweeted the highest number of NYE resolutions?
 
-## Data Scource
+## Data Source
 
 The dataset can be downloaded from the Maven Analytics [data playground](https://www.mavenanalytics.io/data-playground?search=new%20year)
