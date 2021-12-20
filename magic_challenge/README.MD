@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The Maven magic challenge is a part of the @MavenAnalytics data challenge, December 2021. The goal of the challenge is to analyse the Harry Potter Movies dataset and vizualize the magic of Harry Potter movies. The analysis and visualizations are done in Microsoft Power BI.
+The Maven magic challenge is a part of the @MavenAnalytics data challenge, December 2021. The goal of the challenge is to analyse the Harry Potter Movies dataset and visualize the magic of Harry Potter movies. The analysis and visualizations are done in Microsoft Power BI.
 
 ### The Data
 
