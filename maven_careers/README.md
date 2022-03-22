@@ -19,4 +19,4 @@ US labor statistics by industry & state from 2017 to 2020
 
 ## Acknowledgements
 
-Enrique Ruiz, Maven Analytics
+Advanced Excel Dashboard Design Course by Enrique Ruiz, Maven Analytics
