@@ -2,7 +2,7 @@
 
 ## Situation
 
-Yor are a Research Analyst and Excel Specialist at **Maven Careers**, a non-profit organization helping high school seniors find career paths. Your boss needs a dashboard built for an upcoming round of school visits and needs your help.
+You are a Research Analyst and Excel Specialist at **Maven Careers**, a non-profit organization helping high school seniors find career paths. Your boss needs a dashboard built for an upcoming round of school visits and needs your help.
 
 ## Project Brief
 
@@ -17,6 +17,6 @@ US labor statistics by industry & state from 2017 to 2020
 1. Dimensions: `Year`, `Industry`, `State`
 2. Measures: `Establishments`, `Employees`, `Avg Annual Wage`
 
-## Acknowledgements
+## Acknowledgement
 
 Advanced Excel Dashboard Design Course by Enrique Ruiz, Maven Analytics
