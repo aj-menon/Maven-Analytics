@@ -18,6 +18,8 @@ The following tables from the AdventureWorks database are used in this project:
 - Sales (2015 - 2017)
 - Returns
 
+![data-model](https://github.com/aj-menon/Maven-Analytics/blob/master/adventure_works/images/data_model.jpg?raw=true)
+
 ## Acknowledgement
 
 Power BI Desktop Course by Chris Dutton, [Maven Analytics](https://www.mavenanalytics.io/)
