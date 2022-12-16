@@ -6,7 +6,7 @@ You have been hired as the Lead Business Analyst for **Maven Toys**, a small toy
 
 ## Project Brief
 
-Build a dashbord that can filter by region, track monthly revenue trends, and see performance year-over-year. The dashboard should also comapre the performance across the stores, and identify which specific products drove the biggest gains and losses.
+Build a dashboard that can filter by region, track monthly revenue trends, and see performance year-over-year. The dashboard should also compare the performance across the stores, and identify which specific products drove the biggest gains and losses.
 
 ## Dataset Summary
 
